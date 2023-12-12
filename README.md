@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi! 👋
 
-<!--
-**patsypongx/patsypongx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Michail, a passionate web developer exploring the endless possibilities of canvas in my projects. 🚀
 
-Here are some ideas to get you started:
+## 🌐 Web Development Journey
+- 🔭 I’m currently honing my skills in HTML, CSS, and JavaScript.
+- 🚀 Planning to dive deep into canvas to bring creativity and interactivity to my projects.
+- 📚 Learning about responsive design, user experience, and the latest web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+
+## 🎨 Canvas Enthusiast
+- 🖌️ Excited about leveraging canvas for dynamic graphics and animations.
+<div align="center" wight=200>
+  <img src="https://media.giphy.com/media/3o7bu79VY9ruoYHPs4/giphy.gif"></img>
+</div>  
+Let's create some pixel-perfect magic with canvas! 🎨✨
